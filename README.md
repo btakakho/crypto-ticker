@@ -1,1 +1,1 @@
-# crypto-ticker
+# Crypto Ticker App
